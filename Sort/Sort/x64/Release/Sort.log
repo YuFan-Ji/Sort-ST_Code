@@ -1,0 +1,9 @@
+﻿  Sort.c
+D:\BiTeStudy\Sort\Sort\Sort\Sort.c(89,5): warning C4013: “Swap”未定义；假设外部返回 int
+D:\BiTeStudy\Sort\Sort\Sort\Sort.c(200,3): warning C4013: “Adjustdown”未定义；假设外部返回 int
+  正在生成代码
+  3 of 15 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Sort.vcxproj -> D:\BiTeStudy\Sort\Sort\x64\Release\Sort.exe

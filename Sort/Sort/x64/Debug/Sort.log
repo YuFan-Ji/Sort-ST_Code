@@ -1,0 +1,9 @@
+﻿  Heap.c
+  Sort.c
+D:\BiTeStudy\Sort\Sort\Sort\Sort.c(89,5): warning C4013: “Swap”未定义；假设外部返回 int
+D:\BiTeStudy\Sort\Sort\Sort\Sort.c(200,3): warning C4013: “AdjustDown”未定义；假设外部返回 int
+  test.c
+D:\BiTeStudy\Sort\Sort\Sort\test.c(5,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+Sort.obj : error LNK2019: 无法解析的外部符号 AdjustDown，函数 HeapSort 中引用了该符号
+D:\BiTeStudy\Sort\Sort\x64\Debug\Sort.exe : fatal error LNK1120: 1 个无法解析的外部命令

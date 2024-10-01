@@ -1,0 +1,7 @@
+﻿  Sort.c
+D:\BiTeStudy\Sort\Sort练习\Sort练习\Sort.c(263,10): warning C4013: “StackEmpty”未定义；假设外部返回 int
+D:\BiTeStudy\Sort\Sort练习\Sort练习\Sort.c(300,2): warning C4013: “STDestroy”未定义；假设外部返回 int
+  Stack.c
+  test.c
+  正在生成代码...
+  Sort练习.vcxproj -> D:\BiTeStudy\Sort\Sort练习\x64\Debug\Sort练习.exe

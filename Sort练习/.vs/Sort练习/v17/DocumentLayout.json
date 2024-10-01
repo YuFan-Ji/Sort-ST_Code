@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00A00FFA-01DC-4C4C-81BF-C5380E0BEB03}|Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60.vcxproj|D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60\\Sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00A00FFA-01DC-4C4C-81BF-C5380E0BEB03}|Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60.vcxproj|solutionrelative:Sort\u7EC3\u4E60\\Sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A00FFA-01DC-4C4C-81BF-C5380E0BEB03}|Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60.vcxproj|D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60\\Stack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00A00FFA-01DC-4C4C-81BF-C5380E0BEB03}|Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60.vcxproj|solutionrelative:Sort\u7EC3\u4E60\\Stack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A00FFA-01DC-4C4C-81BF-C5380E0BEB03}|Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60.vcxproj|D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00A00FFA-01DC-4C4C-81BF-C5380E0BEB03}|Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60.vcxproj|solutionrelative:Sort\u7EC3\u4E60\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A00FFA-01DC-4C4C-81BF-C5380E0BEB03}|Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60.vcxproj|D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00A00FFA-01DC-4C4C-81BF-C5380E0BEB03}|Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60.vcxproj|solutionrelative:Sort\u7EC3\u4E60\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A00FFA-01DC-4C4C-81BF-C5380E0BEB03}|Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60.vcxproj|D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00A00FFA-01DC-4C4C-81BF-C5380E0BEB03}|Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60.vcxproj|solutionrelative:Sort\u7EC3\u4E60\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60\\test.c",
+              "RelativeDocumentMoniker": "Sort\u7EC3\u4E60\\test.c",
+              "ToolTip": "D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60\\test.c",
+              "RelativeToolTip": "Sort\u7EC3\u4E60\\test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-26T17:32:50.338Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stack.h",
+              "DocumentMoniker": "D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60\\Stack.h",
+              "RelativeDocumentMoniker": "Sort\u7EC3\u4E60\\Stack.h",
+              "ToolTip": "D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60\\Stack.h",
+              "RelativeToolTip": "Sort\u7EC3\u4E60\\Stack.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T15:53:16.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.c",
+              "DocumentMoniker": "D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60\\Stack.c",
+              "RelativeDocumentMoniker": "Sort\u7EC3\u4E60\\Stack.c",
+              "ToolTip": "D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60\\Stack.c",
+              "RelativeToolTip": "Sort\u7EC3\u4E60\\Stack.c",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-27T15:53:13.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sort.h",
+              "DocumentMoniker": "D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60\\Sort.h",
+              "RelativeDocumentMoniker": "Sort\u7EC3\u4E60\\Sort.h",
+              "ToolTip": "D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60\\Sort.h",
+              "RelativeToolTip": "Sort\u7EC3\u4E60\\Sort.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T17:24:41.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sort.c",
+              "DocumentMoniker": "D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60\\Sort.c",
+              "RelativeDocumentMoniker": "Sort\u7EC3\u4E60\\Sort.c",
+              "ToolTip": "D:\\BiTeStudy\\Sort\\Sort\u7EC3\u4E60\\Sort\u7EC3\u4E60\\Sort.c",
+              "RelativeToolTip": "Sort\u7EC3\u4E60\\Sort.c",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-26T17:24:22.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

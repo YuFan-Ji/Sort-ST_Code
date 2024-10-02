@@ -1,0 +1,4 @@
+﻿  QuickSort.c
+D:\BiTeStudy\Sort\QuickSort\QuickSort\QuickSort.c(121,10): warning C4013: “StackEmpty”未定义；假设外部返回 int
+D:\BiTeStudy\Sort\QuickSort\QuickSort\QuickSort.c(161,2): warning C4013: “STDestroy”未定义；假设外部返回 int
+  QuickSort.vcxproj -> D:\BiTeStudy\Sort\QuickSort\x64\Debug\QuickSort.exe
